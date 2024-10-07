@@ -1,6 +1,6 @@
 # Hacktoberfest 2024
 
-Welcome to Hacktoberfest 2024! 🐙🦥🎉 We’re excited to have you join us in contributing to this Flutter project. Before diving in, please review the guidelines to ensure a smooth contribution process.
+Welcome to Hacktoberfest 2024 specially for flutter developers! 🐙🦥🎉 We’re excited to have you join us in contributing to this Flutter project. Before diving in, please review the guidelines to ensure a smooth contribution process.
 
 ![Screenshot](https://github.com/user-attachments/assets/cada641e-dee9-4892-9199-01910d6859eb)
 
