@@ -2,7 +2,7 @@
 
 Welcome to Hacktoberfest 2024 specially for flutter developers! 🐙🦥🎉 We’re excited to have you join us in contributing to this Flutter project. Before diving in, please review the guidelines to ensure a smooth contribution process.
 
-![Screenshot](https://github.com/user-attachments/assets/cada641e-dee9-4892-9199-01910d6859eb)
+![Screenshot 2024-10-08 001402](https://github.com/user-attachments/assets/36baa9fb-968e-4bff-a2bb-b735b7ccbb90)
 
 [View Project Design](https://www.figma.com/design/ySQgr90LsFlL82jwDxwVM1/Coding-Challenge%3A-Coffee-Shop-Mobile-App-Design?node-id=2-2&t=2e6VKzdq9Ilmyw98-1)
 
